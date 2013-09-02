@@ -10,7 +10,7 @@ Here is what I have done.
 
 # Gems
 
-I included the gems as statet in the [docs of foundation](http://foundation.zurb.com/docs/rails.html)
+I included the gems as stated in the [docs of foundation](http://foundation.zurb.com/docs/rails.html)
 
 {% highlight ruby %}
 # Add Foundation Here
@@ -18,7 +18,7 @@ gem "compass-rails", "~> 2.0.alpha.0" # rails 4 support
 gem 'zurb-foundation'
 {% endhighlight %}
 
-Be aware the in Rails 4 the asset group got removed. So just place them in your file.
+Be aware that in Rails 4 the asset group got removed.
 
 # Undefined mixin
 
@@ -56,6 +56,6 @@ to
 {% endhighlight %}
 
 fixed this for me.
-You should not have any problems if you use the latest version of foundation.
+You should not have any problems if you use the latest version of foundation from the beginning.
 
-Hope that it helped and that it will safe you some time.
+I hope that helped and that it will safe you some time.
